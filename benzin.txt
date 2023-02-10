@@ -1,0 +1,15 @@
+Adiyaman,,Shell istasyonu ,Tum hepsi ,ucretsiz
+Adiyaman,Merkez,And Derici Petrol,,ucretsiz ,5325852032
+Adiyaman,Kahta,Erdoganlar Petrol,,ucretsiz,5303481899
+Gaziantep,Sehitkamil,ozemin Petrol,,ucretsiz,5427945896
+Hatay,Shell istasyonu ,Tum hepsi ,ucretsiz
+Hatay,Dortyol,Hidayet petrol,ucretsiz ,5326035419
+
+Shell istasyonu ,Tum hepsi ,ucretsiz
+Kahramanmaras,OnikiSubat,Saylak Petrol,,ucretsiz,5316502831
+Kahramanmaras,Turkoglu,Nempet Petrol,,ucretsiz ,5360340446
+Sanliurfa,Eyyubiye,Atmaca Petrol,,ucretsiz,5360340446
+Sanliurfa,,Bakir Petrol,,ucretsiz,5323558290
+Sanliurfa,Bozova,CankarataS ,,ucretsiz ,5324338568
+Sanliurfa,Bilecek ,ozacarlar ,,ucretsiz ,5445433463
+!!!10 DEPREM ILINDEKI TuM SHELL ISTASYONLARI uCRETSIZDIR!!!
